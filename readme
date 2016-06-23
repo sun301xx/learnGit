@@ -2,4 +2,22 @@ git is a distributed version control system.
 git is free software distributed under the GPL.	
 git has a mutable index called stage.
 git tracks changes
-git push sucess
+git push suces
+
+---------------------------华丽的分割线----------------------------
+how to upload Image to github
+
+0. open -ssh file in your computer and upload to github
+
+
+![image](https://github.com/sun301xx/learnGit/raw/master/uploadSSH.png)   
+1. create README.md
+
+
+![image](https://github.com/sun301xx/learnGit/raw/master/readmeImage.png)
+2. clone the repository 
+
+3. create a images folder if you like and paste your image in the folder
+4. add those code in README.md :
+   ![image](https://github.com/your-name/your-respository/raw/master/image-folder/xxx.png)
+5. add commit and push! 
