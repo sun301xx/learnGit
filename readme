@@ -3,6 +3,7 @@ git is free software distributed under the GPL.
 git has a mutable index called stage.
 git tracks changes
 git push suces
+git create a new branch is quick.
 
 ---------------------------华丽的分割线----------------------------
 how to upload Image to github
@@ -20,4 +21,4 @@ how to upload Image to github
 3. create a images folder if you like and paste your image in the folder
 4. add those code in README.md :
    ![image](https://github.com/your-name/your-respository/raw/master/image-folder/xxx.png)
-5. add commit and push! 
+5. add commit and push!
